@@ -36,7 +36,7 @@ return [
         'timeline-2016' => 'Rozpoczęcie pracy jako Junior PHP Developer w Profitroom, programowanie w Frameworku Laravel 3 i 5, praca w metodyce Scrumie, implementacja API, optymalizacje bazodanowe i PHPowe, budowanie systemu rezerwacyjnego.',
         'timeline-2017' => 'Praca nad systemem CRM, poznawanie wzorców projektowych, praca przy projekcie z wykorzystaniem DDD, SOLID. Prywatnie rozwijanie umiejętności w Test Driven Development oraz Behaviour Driven Development.',
         'laravel-description' => 'Z zamiłowania do czystego i rozwijalnego kodu.',
-        'php-description' => 'Przez wysoką popularność i duzą uniwersjalność.',
+        'php-description' => 'Przez wysoką popularność i duzą uniwersalność.',
         'git-description' => 'Jedyna słuszna kontrola wersji.',
         'phpstorm-description' => 'Praca w nim to sama przyjemność, refactor nigdy nie był tak przyjemny.',
         'bootstrap-description' => 'Idealne framework dla developera aby aplikacje nabrały wyglądu.',
