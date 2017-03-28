@@ -22,7 +22,7 @@ return [
         'my_skill' => 'Moje umiejętności',
         'portfolio' => 'Portfolio',
         'download_cv' => 'Pobierz moje CV',
-        'be_in_touch' => 'Pozostańmy w kontakcie',
+        'be_in_touch' => 'Skontaktuj się ze mną',
     ],
     'texts' => [
         'about-1' => 'Jestem programistą nie tylko z zawodu, ale też z zamiłowania. Swoją wiedzę o technologiach zdobywałem już od najmłodszych lat, kiedy to zacząłem pisać swoje pierwsze programy i strony. Moje zainteresowanie komputerami i środowiskiem IT przerodziło się w pasję, a pasja w pracę, dzięki której teraz mogę się rozwijać i spełniać zawodowo.',
