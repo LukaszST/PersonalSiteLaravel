@@ -143,7 +143,7 @@
                     </div>
                     <h3 class="text-left">{{__('cv.extras')}}</h3>
                     <hr>
-                    <a href="http://meetsfotware.pl">{{__('cv.blog')}}</a><br>
+                    <a href="http://meetsoftware.pl">{{__('cv.blog')}}</a><br>
                     <a href="https://github.com/LukaszST/">{{__('cv.github')}}</a>
                 </div>
             </div>
