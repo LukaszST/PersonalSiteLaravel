@@ -16,7 +16,9 @@ class EmailController extends Controller
         Mail::send('mails.basic', ['title' => $title, 'content' => $content], function ($message) use ($request)
         {
 
-            $message->from($request->input('mil'), $request->input('email') .' '. $request->input('lastName'));
+            $message->replyTo($request->input('mil'), $request->input('email') .' '. $request->input('lastName'));
+            $message->from('noreply@lukaszurbaniak.pl');
+
             $message->subject($request->input('title'));
 
             $message->to('kontakt@lukaszurbaniak.pl');

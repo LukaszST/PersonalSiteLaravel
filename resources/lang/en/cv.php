@@ -48,7 +48,7 @@ return [
     'profitroom_achievement_3' => 'Stworzyłem integrację API z Previo dla rezerwacji hotelowych',
     'kuzniewski' => 'Kuźniewski',
     'kuzniewski_job_title' => 'Junior PHP Developer | 2015.12 - 2016.04',
-    'kuzniewski_duty_1' => 'Implementowanie nowych funkcjonalności w sklepie <br> internetowym.',
+    'kuzniewski_duty_1' => 'Implementowanie nowych funkcji i poprawa błędów w sklepie internetowym.',
     'kuzniewski_duty_2' => 'Programowanie w PHP 5',
     'kuzniewski_duty_3' => 'Refactor zapytań do bazy danych na ActiveRecord',
     'kuzniewski_achievement_1' => 'Zoptymalizowałem wyszukiwarke kategorii',
