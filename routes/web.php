@@ -24,7 +24,7 @@ Route::get('/', function () {
 
 Route::post('/mail-verify', 'MailController@verifyMail');
 
-Route::get('/{locale}/test-pdf', 'PdfController@returnPdf');
+Route::get('/{locale}/resume.pdf', 'PdfController@returnPdf');
 
 Route::post('/send', 'EmailController@send');
 
