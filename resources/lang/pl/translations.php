@@ -22,7 +22,7 @@ return [
         'my_skill' => 'Moje umiejętności',
         'portfolio' => 'Portfolio',
         'download_cv' => 'Pobierz moje CV',
-        'be_in_touch' => 'Pozostańmy w kontakcie',
+        'be_in_touch' => 'Skontaktuj się ze mną',
     ],
     'texts' => [
         'about-1' => 'Jestem programistą nie tylko z zawodu, ale też z zamiłowania. Swoją wiedzę o technologiach zdobywałem już od najmłodszych lat, kiedy to zacząłem pisać swoje pierwsze programy i strony. Moje zainteresowanie komputerami i środowiskiem IT przerodziło się w pasję, a pasja w pracę, dzięki której teraz mogę się rozwijać i spełniać zawodowo.',
@@ -36,7 +36,7 @@ return [
         'timeline-2016' => 'Rozpoczęcie pracy jako Junior PHP Developer w Profitroom, programowanie w Frameworku Laravel 3 i 5, praca w metodyce Scrumie, implementacja API, optymalizacje bazodanowe i PHPowe, budowanie systemu rezerwacyjnego.',
         'timeline-2017' => 'Praca nad systemem CRM, poznawanie wzorców projektowych, praca przy projekcie z wykorzystaniem DDD, SOLID. Prywatnie rozwijanie umiejętności w Test Driven Development oraz Behaviour Driven Development.',
         'laravel-description' => 'Z zamiłowania do czystego i rozwijalnego kodu.',
-        'php-description' => 'Przez wysoką popularność i duzą uniwersjalność.',
+        'php-description' => 'Przez wysoką popularność i duzą uniwersalność.',
         'git-description' => 'Jedyna słuszna kontrola wersji.',
         'phpstorm-description' => 'Praca w nim to sama przyjemność, refactor nigdy nie był tak przyjemny.',
         'bootstrap-description' => 'Idealne framework dla developera aby aplikacje nabrały wyglądu.',
