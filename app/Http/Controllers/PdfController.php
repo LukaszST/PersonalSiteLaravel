@@ -14,18 +14,15 @@ class PdfController extends Controller
     {
         App::setLocale($locale);
 
-        $html = view('pdf.cv2');
-//        $pdf = PDF::loadView('pdf.cv2');
+        $html = view('pdf.cv');
+
         $pdf = PDF::loadHTML($html);
         return $pdf->setPaper('a4')->stream('resume.pdf');
-//
-//        $pdf = App::make('dompdf.wrapper');
-//        $pdf->loadHTML('<h1>Test</h1>');
-//        return $pdf->stream();
+
     }
 
     public function returnView()
     {
-        return view('pdf.cv2');
+        return view('pdf.cv');
     }
 }
