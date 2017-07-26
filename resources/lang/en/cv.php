@@ -1,18 +1,10 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: lukaszurbaniak
- * Date: 15/03/2017
- * Time: 16:06
- */
 
 return [
-    'title' => 'Łukasz Urbaniak Resume',
+    'title' => 'Łukasz Urbaniak - Resume',
     'my_name' => 'Łukasz Urbaniak',
     'title_programmer' => 'PHP Developer | Laravel',
-    'short_resume_about' => 'Z zawodu i zamiłowania programista. Samouk rozszerzający swoje umiejętności na każdym kroku. Najpewniej
-                    czuję się w PHP i frameworku Laravel. Moim największym osiągnięciem jest praca w zespole odpowiedzialnym
-                    za rozwój najpopularniejszego systemu rezerwacyjnego dla hoteli w Polsce.',
+    'short_resume_about' => 'Programmer by profession and passion. I’m self-taught, expanding my skills at every possible turn. I feel most confident in PHP and Laravel frameworks. My biggest achievement is working in a team responsible for the development of the most popular reservation system for hotels in Poland.',
     'personal_details' => 'Personal Details',
     'phone' => 'Phone',
     'phone_number' => '+48 880 813 413',
@@ -40,27 +32,28 @@ return [
     'profitroom_job_title' => 'Junior PHP Developer | 2016.05 - now',
     'duties' => 'Duties',
     'profitroom_duty_1' => 'Expansion and development of the booking system',
-    'profitroom_duty_2' => 'Programming in framework Laravel 3 and 5, and in PHP 5 and 7',
+    'profitroom_duty_2' => 'Programming in Laravel 3 and 5 frameworks, and in PHP 5 and 7',
     'profitroom_duty_3' => 'Integrating and creating APIs',
     'achievements' => 'Achievements',
-    'profitroom_achievement_1' => 'Together with the team we have created a management system for Polish Prestige Hotels.',
-    'profitroom_achievement_2' => 'With the team I refactor the booking system',
+    'profitroom_achievement_1' => 'Together with the team we have created the management system for Polish Prestige Hotels.',
+    'profitroom_achievement_2' => 'With the team I led the refactor of the booking system',
     'profitroom_achievement_3' => 'I created the API integration with Previo for hotel reservations',
     'kuzniewski' => 'Kuźniewski',
     'kuzniewski_job_title' => 'Junior PHP Developer | 2015.12 - 2016.04',
-    'kuzniewski_duty_1' => 'Implement new features and bug fixes in the online store.',
+    'kuzniewski_duty_1' => 'Implementing new features and bug fixing in the online store.',
     'kuzniewski_duty_2' => 'Programming in PHP 5',
-    'kuzniewski_duty_3' => 'Refactor queries to the database on ActiveRecord',
-    'kuzniewski_achievement_1' => 'I optimized the search engine category',
-    'kuzniewski_achievement_2' => 'Together with the team I conducted refactor queries
-                             PDO on ActiveRecords to enhance capabilities
-                             Extension',
+    'kuzniewski_duty_3' => 'Refactoring queries to the database on ActiveRecord',
+    'kuzniewski_achievement_1' => 'Optimizing the search engine category',
+    'kuzniewski_achievement_2' => 'Together with the team I conducted refactoring queries
+                         	PDO on ActiveRecords to enchance capabilities
+                         	Extension',
     'education' => 'Education',
-    'school' => 'Zespół Szkół Elektrycznych nr 1 w Poznaniu',
-    'school_tittle' => 'Technik Elektronik | 2011 - 2015',
+    'school' => 'Electrical School no. 1 in Poznan',
+    'school_tittle' => 'Electronics Technician | 2011 - 2015',
     'extras' => 'Media',
     'blog' => 'Private blog about programming.',
     'github' => 'Github',
-    'privacy_policy' => 'Wyrażam zgodę na przetwarzanie moich danych osobowych dla potrzeb niezbędnych do realizacji procesu rekrutacji (zgodnie z Ustawą z dnia
-                    29.08.1997 roku o Ochronie Danych Osobowych; tekst jednolity: Dz. U. 2016 r. poz. 922).'
-];
+    'privacy_policy' => 'I hereby agree to the processing of my personal data for the purposes necessary for the recruitment process (in accordance with the Act of
+                    29.08.1997 on the Protection of Personal Data; Unified text: Dz. U. 2016 pos. 922).',
+    ];
+
