@@ -30,6 +30,9 @@
                 <li>
                     <a class="page-scroll" href="#contact">{{__('translations.menu.contact')}}</a>
                 </li>
+                <li>
+                    <a class="page-scroll" target="_blank" href="http://meetsoftware.pl">Blog</a>
+                </li>
 
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">
